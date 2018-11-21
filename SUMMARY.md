@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [docs.anonutopia.com](README.md)
 
 ## Anonutopia
 
