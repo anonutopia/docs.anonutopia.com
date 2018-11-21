@@ -2,7 +2,7 @@
 
 ### Anonutopia
 
-* System of Badges in Anonutopia
+* [System of Badges in Anonutopia](anonutopia/system-of-badges-in-anonutopia.md)
 
 ### Waves
 
