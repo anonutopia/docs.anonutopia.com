@@ -42,7 +42,7 @@ Tags are a very important part of Anonutopia's network and software. Tags determ
 
 * **Alumni = 2.00 AUBIX**
 
-  This tag will be given to citizens who have significantly contributed to Aonoutopia's development, as an honorary pension. Coming not so soon.
+  This tag will be given to citizens who have significantly contributed to Anonutopia's development, as an honorary pension. Coming not so soon.
 
 * **Hero = 5.00 AUBIX**
 
@@ -52,5 +52,5 @@ Tags are a very important part of Anonutopia's network and software. Tags determ
 
   During the first experimental period, the amount of the UBI will be reduced, but as Anonutopia grows and develops, the amount will also grow. Pioneers are the ones who will be able to test the UBI in real life with amounts sufficient for decent living, hence the 50 AUBIX. This index will decrease as amounts of regular UBI payouts grow and Citizens begin to reach this major milestone.
 
-Every Anonutopian can have one or more tags and the respective AUBIX indexes. Their AUBIXs get multiplied to calculate the amount if the UBI they receive \(exluding the Pioneers who have the fixed AUBIX\). Also, this list of tags will be modified and broadened through democratic procedures as Anonutopia develops.
+Every Anonutopian can have one or more tags and the respective AUBIX indexes. Their AUBIXs get multiplied to calculate the amount of the UBI they receive (excluding the Pioneers who have the fixed AUBIX). Also, this list of tags will be modified and broadened through democratic procedures as Anonutopia develops.
 
