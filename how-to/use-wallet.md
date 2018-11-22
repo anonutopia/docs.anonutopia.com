@@ -1,6 +1,19 @@
+# How to Use Anonutopia Wallet
+
 [Anonutopia Wallet](https://wallet.anonutopia.com) is the official wallet app for handling your Anonutopia cryptocurrencies (Anote, CryptoEuro, CryptoUSD, CryptoKuna, CryptoDinar etc.). We designed it to be intuitive and easy to use for wide audiences, with a multi-currency support for storing also some of the better known cryptocurrencies such as Bitcoin, Ethereum, or Waves (and this list will be growing).  
 
-# Creating an account
+* **[Creating an account](#create)**
+* **[Securing your wallet](#secure)**
+   * [Managing your seed](#seed)
+   * [Managing your password](#pass)
+   * [General safety guidelines](#safety)
+* **[Importing wallet ](#import)**
+* **[Sending assets](#send)**
+* **[Receiving assets](#receive)**
+   * [Receiving other cryptocurrencies](#receive2)
+* **[Transfer history](#wallet)**   
+   
+## Creating an account <a name="create"></a>
 
 If you're here for the first time, here's how to create a new wallet. 
 
@@ -18,11 +31,12 @@ If you're here for the first time, here's how to create a new wallet.
 
 **Notice**: In order to save your wallet in your browser, you need to have cookies for our sites enabled. If you want to create a new wallet on the same device/browser, you have to delete cookies of our sites, or open it in a "private browsing" mode.
 
-# Securing your wallet
+
+## Securing your wallet <a name="create"></a>
 
 We made the wallet so it can be used anonymously, but for the safety of your assets in return you have to follow some basic guidelines.
 
-## Managing your seed
+### Managing your seed <a name="seed"></a>
 
 **Seed** is a backup phrase for your wallet consisting of 15 words by which you can retrieve your unique **wallet address** and access your assets on different devices. 
 
@@ -34,13 +48,13 @@ These words are the key for using your wallet and they give all privileges for m
 
 If you suspect that someone got access to your seed, or you made them public by mistake, _**immediately**_ create a new account, transfer all your funds to the new account, and this time make sure your seed is safe. 
 
-## Managing your password
+### Managing your password <a name="pass"></a>
 
 The password you entered while creating your wallet protects your wallet only on the particular device/browser. If you want to import your wallet on another device or in another browser, you do not have to enter the same password - you can have different passwords for the same wallet on different devices/browsers.
 
 **If you lose your password, no worries!** Just delete our sites' cookies, go to the wallet page, import your wallet with your seed phrase, and enter a new password.    
 
-## General safety guidelines
+### General safety guidelines <a name="safety"></a>
 
 In order to avoid various phishing scams, before doing anything with your wallet:
 * Do not open your wallet on public WiFi networks or on someone else's devices.  
@@ -49,17 +63,17 @@ In order to avoid various phishing scams, before doing anything with your wallet
 * Update your browser, OS, and security tools regularly.
 * Use official security software.
 * Do not open e-mails from unknown senders.
- 
-# Importing wallet
+
+
+## Importing wallet <a name="import"></a>
 If you want to access your account in another browser or on another device, you need to import it.
 
 * Open the link https://wallet.anonutopia.com and click **Import**. 
 * Enter your wallet's _seed_ from your backup and click **Next**.
 * Enter a password for this device/browser twice and click **Finish**.
 
-**Congratulations, you have successfully imported your wallet**  :tada:
 
-# Wallet overview
+## Wallet overview <a name="wallet"></a>
 
 Let's do a quick overview of the wallet interface. 
 
@@ -70,7 +84,8 @@ Let's do a quick overview of the wallet interface.
 3. **Account balance** - Here you can see the amount of (currently supported) cryptocurrencies you have in this wallet.
 4. **Payment** - You can use this applet to send your tokens to other accounts.   
 
-# Sending assets
+
+## Sending assets <a name="send"></a>
 Sending tokens to other accounts is pretty simple. All you need is the recipient address (and, of course, enough funds in your wallet :smile:),
 
 ![Anonutopia Wallet - Sending assets](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/send.png) 
@@ -93,37 +108,31 @@ Every transaction of cryptocurrencies is accompanied by a transaction fee. The d
 
 5. If you want to configure the fee, click on **Configure Fee** and choose the currency from the drop-down menu. Else,
 6. Click **Send payment** to confirm sending. 
-    
-# Receiving assets
+
+
+## Receiving assets <a name="receive"></a>
 If someone wants to send you token, all you need to provide is your wallet address. You can find your wallet address in the **Receiving** element at the wallet's main page and copy it with a click of the button. The address can also be acquired by scanning the QR code. 
 
 ![Anonutopia Wallet - Receiving](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/receive.png)
 
-## Multiple addresses
+### Receiving other currencies <a name="receive2"></a>
 
 All Anonutopia's tokens are based on the [Waves platform](https://wavesplatform.com/). Besides Anote nad cryptofiats, you can receive all Waves-based tokens on your main wallet address, but only Waves is currently available in the account balance. 
 
 In addition, you can store Bitcoin and Ethereum in your wallet. Since they are different platforms, you have different addresses of your wallet for receiving BTC or ETH.   
 
-![Uplata Sredstava - Kriptokuna Novčanik](https://github.com/anonutopia/kriptokuna/blob/master/docs/novcanik/uplata.png)
-
 If you want to receive BTC or ETH, just click the appropriate tab above the QR code, and copy the address or scan the QR code. 
 
 **Make sure you provide the appropriate address when receiving tokens from other platforms!**
 
-***
-**Storing other cryptocurrencies**
-
-***
-
-
 We will expand our offer of available currencies in the wallet when enough demand appears. 
 
-## Transfer history
+
+## Transfer history <a name="transfer"></a>
 
 You can check the history of your incoming and outgoing transactions by clicking the link **Transactions** in the wallet's menu.
 
-![Uplata Sredstava - Kriptokuna Novčanik](https://github.com/anonutopia/kriptokuna/blob/master/docs/novcanik/uplata.png)
+![Anonutopia Wallet - History](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/history.png)
 
 The link opens a separate window in your browser to [Waves Explorer](http://wavesexplorer.com/) where you can see all transactions on your wallet address, including other Waves-based tokens you receive through mass payments and airdrops.
 
