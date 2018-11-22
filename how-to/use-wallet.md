@@ -11,7 +11,7 @@
 * **[Sending assets](#send)**
 * **[Receiving assets](#receive)**
    * [Receiving other cryptocurrencies](#receive2)
-* **[Transfer history](#wallet)**
+* **[Transfer history](#transfer)**
 * **[Profit](#profit)**
    * [Founder holding profit](#founder)
    * [Referral profit](#referral)
