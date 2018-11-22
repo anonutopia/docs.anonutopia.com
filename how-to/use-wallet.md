@@ -11,7 +11,10 @@
 * **[Sending assets](#send)**
 * **[Receiving assets](#receive)**
    * [Receiving other cryptocurrencies](#receive2)
-* **[Transfer history](#wallet)**   
+* **[Transfer history](#wallet)**
+* **[Profit](#profit)**
+   * [Founder holding profit](#founder)
+   * [Referral profit](#referral)
    
 ## Creating an account <a name="create"></a>
 
@@ -86,7 +89,7 @@ Let's do a quick overview of the wallet interface.
 
 <a name="send"></a>
 ## Sending assets 
-Sending tokens to other accounts is pretty simple. All you need is the recipient address (and, of course, enough funds in your wallet :smile:),
+Sending tokens to other accounts is pretty simple. All you need is the recipient address (and, of course, enough funds in your wallet),
 
 ![Anonutopia Wallet - Sending assets](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/send.png) 
 
@@ -136,61 +139,34 @@ You can check the history of your incoming and outgoing transactions by clicking
 
 The link opens a separate window in your browser to [Waves Explorer](http://wavesexplorer.com/) where you can see all transactions on your wallet address, including other Waves-based tokens you receive through mass payments and airdrops.
 
-
-
+<a name="profit"></a>
 ## Profit
-Anota token je dizajniran tako da omogućuje različite načine zarade, bilo čuvanjem tokena ili preporučivanjem naših stranica i novčanika poznanicima. 
+Anote is designed with several features that provide opportunities to earn by holding anotes or recommending our sites.
 
-![Kriptokuna Novčanik - Profit](https://github.com/anonutopia/kriptokuna/blob/master/docs/novcanik/profit.png)
+![Anonutopia Wallet - Profit](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/profit.png)
 
-U izborniku "Profit" u Vašem novčaniku vidite sljedeće elemente:
-1. **Anote Zarada** - Ovdje vam se prikazuje zarada od čuvanja Anota i referrala.
-2. **Referral Program** - Ovdje možete jednostavno kopirati Vaš referral link.
-3. **Isplate** - Ovdje možete isplatiti profit u Vaš novčanik. 
+The **Profit** page has the following elements:
+1. **Anote profit** - Here you can check how much you have earned by holding or reffering in different currencies, with total profit shown in EUR.
+2. **Referral Program** - The place to find your referral link.
+3. **Payouts** - Here you can transfer your profit to your wallet. 
+<a name="founder"></a>
+### Founder holding profit
 
-**Holding zarada**
+If you become Anonutopia's [Founder](https://www.anonutopia.com/crowdfunding/), you can earn simply by holding anotes in your wallet. When someone buys anotes from us, half of the payment amount goes to our crowdfunding fund, and the other half is distributed among Founders in the currency the payment was made proportional to their shares.     
 
-Samim čuvanjem ("holdanjem") Anote ostvarujete dobit. Kada god netko kupi Anota tokene, mali dio od iznosa kupnje se podjeli sa postojećim korisnicima ("holderima"), razmjerno količini Anota koje čuvaju, u valuti u kojoj je kupnja provedena.
+In the **Anote profit** element you can see how much you have earned in currently available cryptocurrencies (Waves, Bitcoin, Ether). 
+<a name="referral"></a>
+### Referral profit
 
-U elementu Holding zarada možete vidjeti koliko ste dosad zaradili samim holdanjem Anote, u trenutno dostupnim kriptovalutama (Waves, Bitcoin, Ether). 
+To ensure its autonomy, Anonutopia funds its activities solely through a viral crowdfunding campaing. Referrals are an important part of it, so we are rewarding them appropriately. 
 
-**Referral zarada**
+In the referral program you can earn by sharing your referral link on social media, by e-mail's, messengers etc. If the person who arrived at our sites through your link purchases anotes, you receive 20% of the payment in the currency the payment was made. And not just with the first purchase but all future purchases this person makes. 
 
-S obzirom da koristimo viralni pristup, preporuka korisnika nam je svakako bitna stavka, koja zaslužuje adekvatnu nagradu. Program preporuke ("referral") omogućuje vam da zarađujete dijeljenjem vašeg referral linka svima koji bi mogli biti zainteresirani za djelovanje Anonutopije, kupovinu i korištenje naših kriptovaluta te ostalih proizvoda. 
-
-Vi kao preporučitelj imate pravo na 20% prihoda od ukupnog zbroja Anota koje je kupio Vaš referral, tj. osoba kojoj ste preporučili, i to ne jednokratno, nego zauvijek! Vaša zarada od preporuka prikazuje se u elementu Anote Zarada, u valuti u kojoj je kupnja provedena. 
-
-Postupak preporuke je jednostavan:
- - kopirate **referral link** iz elementa i pošaljete ga onima kojima preporučujete, ili podijelite na društvenim mrežama. 
-
-Ovaj će link dovesti Vašu publiku na naslovnicu stranice kriptokuna.com. No referral program radi i ako želite nekome preporučiti bilo koju od naših stranica ili sam novčanik. Tada samo na link koji želite podijeliti trebate dopisati: **?r=AdresaVašegNovčanika**, npr.: https://novcanik.kriptokuna.com/?r=3AGssdfsdfsdfkF2G98d38Dagsss (naravno, ne zaboravite staviti adresu _Vašeg_ novčanika! :smile:)
-
-## Mjenjačnica
-Kriptokuna novčanik sadrži i integriranu mjenjačnicu, u kojoj trenutno možete zamijeniti kriptovalute (Waves, Bitcoin, Ether) za Anotu. U elementu "Cijene Anote" možete vidjeti trenutne cijene Anote u eurima i kriptovalutama. 
-
-Sam proces zamjene valuta vrlo je jednostavan.
-
-![Kriptokuna Novčanik - Mjenjačnica](https://github.com/anonutopia/kriptokuna/blob/master/docs/novcanik/mjenjacnica.png)
-
-* U elementu "Zamjena valute" odaberete koju valutu želite promijeniti u koju drugu
-* Upišete iznos (koji ne može biti veći od onoga što imate u novčaniku) 
-* Kliknete **Napravi zamjenu**. 
-
-Prilikom upisa iznosa, u Kalkulatoru s desne strane pokazuje Vam se **Iznos Anota** koje dobijete po trenutnoj cijeni. Također, budući da je Anota dizajnirana tako da ima pretprogramiran rast s konačnom predviđenom vrijednošću od **14 EUR** u trenutku njene stabilizacije, Kalkulator Vam daje i podatak predviđanja koliko će iznos koji ste zamijenili vrijediti u budućnosti, kada se Anota stabilizira. 
-
-**Čestitamo, sada ste spremni u potpunosti koristiti Kriptokuna novčanik!** 
+Basic reffering is a simple procedure:
+ - Copy the **referral link** from the element and paste it where you want it to be seen.  
  
-Za sva dodatna pitanja i korisničku podršku obratite nam se na našoj [Telegram Grupi](https://t.me/AnonutopiaHrvatska).
+This link brings your audience to our [home page](https://www.anonutopia.com). For advanced reffering to a specific Anonutopia's page or wallet, you can add **?r=YourWalletAddress**, e.g.:
+  * https://wallet.anonutopia.com/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2 (_be sure to put the **correct address of your wallet**_)
 
 
-
-## Restoring account
-
-## Sending
-
-## Receiving
-
-## Holding/Referral Profit
-
-## Exchange
 
