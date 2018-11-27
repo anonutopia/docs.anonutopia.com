@@ -203,7 +203,7 @@ In the "Anote Price" element you can check current Anote's price in EUR and the 
 
 The exchange is pretty simple.
 
-* In the drop-down menu of **Currency Exchange** applet pick the pair of currencies you want to exchange.   
+* In the drop-down menu of the **Currency Exchange** applet pick the pair of currencies you want to exchange.   
 * Enter the amount (which does not exceed the amount in your wallet) 
 * Click **Exchange Currencies**. 
 
