@@ -22,7 +22,7 @@ If you're here for the first time, here's how to create a new wallet.
 
 * Click the button **Create**. This screen will appear.
 
-![Anonutopia Wallet - Creating](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/create.png)
+![Anonutopia Wallet - Creating](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/create.png)
 
 * Copy these 15 words (called _**seed**_) by clicking on the button **Copy** and paste them somewhere else (e.g. a text editor).
   * We have disabled the option of pasting directly for security purposes, to avoid having your seed stolen from your clipboard. 
@@ -80,7 +80,7 @@ If you want to access your account in another browser or on another device, you 
 
 Let's do a quick overview of the wallet interface. 
 
-![Anonutopia Wallet - Interface](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/wallet.png)
+![Anonutopia Wallet - Interface](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/wallet.png)
 
 1. **Menu** - The list of your wallet's features.
 2. **Receiving** - This element contains your wallet address (i.e. multiple addresses for Waves, Bitcoin, and Ethereum platforms) and QR code.
@@ -91,7 +91,7 @@ Let's do a quick overview of the wallet interface.
 ## Sending assets 
 Sending tokens to other accounts is pretty simple. All you need is the recipient address (and, of course, enough funds in your wallet),
 
-![Anonutopia Wallet - Sending assets](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/send.png) 
+![Anonutopia Wallet - Sending assets](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/send.png) 
 
 Go to the **Payment** applet and: 
 
@@ -102,7 +102,7 @@ Go to the **Payment** applet and:
 
 A confirmation window will open.
 
-![Anonutopia Wallet - Sending confirmation](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/confirmation.png) 
+![Anonutopia Wallet - Sending confirmation](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/confirmation.png) 
 
 ***
 ### Transfer fee
@@ -116,7 +116,7 @@ Every transaction of cryptocurrencies is accompanied by a transaction fee. The d
 ## Receiving assets 
 If someone wants to send you token, all you need to provide is your wallet address. You can find your wallet address in the **Receiving** element at the wallet's main page and copy it with a click of the button. The address can also be acquired by scanning the QR code. 
 
-![Anonutopia Wallet - Receiving](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/receive.png)
+![Anonutopia Wallet - Receiving](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/receive.png)
 <a name="receive2"></a>
 ### Receiving other currencies 
 
@@ -135,7 +135,7 @@ We will expand our offer of available currencies in the wallet when enough deman
 
 You can check the history of your incoming and outgoing transactions by clicking the link **Transactions** in the wallet's menu.
 
-![Anonutopia Wallet - History](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/history.png)
+![Anonutopia Wallet - History](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/history.png)
 
 The link opens a separate window in your browser to [Waves Explorer](http://wavesexplorer.com/) where you can see all transactions on your wallet address, including other Waves-based tokens you receive through mass payments and airdrops.
 
@@ -143,7 +143,7 @@ The link opens a separate window in your browser to [Waves Explorer](http://wave
 ## Profit
 Anote is designed with several features that provide opportunities to earn by holding anotes or recommending our sites.
 
-![Anonutopia Wallet - Profit](https://github.com/anonutopia/anonutopia/blob/master/docs/wallet/profit.png)
+![Anonutopia Wallet - Profit](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/profit.png)
 
 The **Profit** page has the following elements:
 1. **Anote profit** - Here you can check how much you have earned by holding or reffering in different currencies, with total profit shown in EUR.
