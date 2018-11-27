@@ -15,6 +15,10 @@
 * **[Profit](#profit)**
    * [Founder holding profit](#founder)
    * [Referral profit](#referral)
+* **[Exchange](#exchange)**
+* **[Wallet settings](#settings)**
+   
+   
    
 ## Creating an account <a name="create"></a>
 
@@ -33,6 +37,8 @@ If you're here for the first time, here's how to create a new wallet.
 * In the next page you need to enter a password for protecting your wallet on this device or browser. Enter your password two times and click **Finish**. 
 
 **Notice**: In order to save your wallet in your browser, you need to have cookies for our sites enabled. If you want to create a new wallet on the same device/browser, you have to delete cookies of our sites, or open it in a "private browsing" mode.
+
+
 
 <a name="secure"></a>
 ## Securing your wallet 
@@ -67,13 +73,18 @@ In order to avoid various phishing scams, before doing anything with your wallet
 * Use official security software.
 * Do not open e-mails from unknown senders.
 
+
+
 <a name="import"></a>
 ## Importing wallet 
+
 If you want to access your account in another browser or on another device, you need to import it.
 
 * Open the link https://wallet.anonutopia.com and click **Import**. 
 * Enter your wallet's _seed_ from your backup and click **Next**.
 * Enter a password for this device/browser twice and click **Finish**.
+
+
 
 <a name="wallet"></a>
 ## Wallet overview 
@@ -87,8 +98,11 @@ Let's do a quick overview of the wallet interface.
 3. **Account balance** - Here you can see the amount of (currently supported) cryptocurrencies you have in this wallet.
 4. **Payment** - You can use this applet to send your tokens to other accounts.   
 
+
+
 <a name="send"></a>
 ## Sending assets 
+
 Sending tokens to other accounts is pretty simple. All you need is the recipient address (and, of course, enough funds in your wallet),
 
 ![Anonutopia Wallet - Sending assets](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/send.png) 
@@ -112,8 +126,11 @@ Every transaction of cryptocurrencies is accompanied by a transaction fee. The d
 5. If you want to configure the fee, click on **Configure Fee** and choose the currency from the drop-down menu. Else,
 6. Click **Send payment** to confirm sending. 
 
+
+
 <a name="receive"></a>
 ## Receiving assets 
+
 If someone wants to send you token, all you need to provide is your wallet address. You can find your wallet address in the **Receiving** element at the wallet's main page and copy it with a click of the button. The address can also be acquired by scanning the QR code. 
 
 ![Anonutopia Wallet - Receiving](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/receive.png)
@@ -130,6 +147,8 @@ If you want to receive BTC or ETH, just click the appropriate tab above the QR c
 
 We will expand our offer of available currencies in the wallet when enough demand appears. 
 
+
+
 <a name="transfer"></a>
 ## Transfer history 
 
@@ -139,8 +158,11 @@ You can check the history of your incoming and outgoing transactions by clicking
 
 The link opens a separate window in your browser to [Waves Explorer](http://wavesexplorer.com/) where you can see all transactions on your wallet address, including other Waves-based tokens you receive through mass payments and airdrops.
 
+
+
 <a name="profit"></a>
 ## Profit
+
 Anote is designed with several features that provide opportunities to earn by holding anotes or recommending our sites.
 
 ![Anonutopia Wallet - Profit](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/profit.png)
@@ -168,5 +190,32 @@ Basic reffering is a simple procedure:
 This link brings your audience to our [home page](https://www.anonutopia.com). For advanced reffering to a specific Anonutopia's page or wallet, you can add **?r=YourWalletAddress**, e.g.:
   * https://wallet.anonutopia.com/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2 (_be sure to put the **correct address of your wallet**_)
 
+
+
+<a name="exchange"></a>
+## Exchange
+
+Anonutopia Wallet also has an integrated exchange (which currently supports converting Waves, Bitcoin, and Ether to Anote). 
+
+![Anonutopia Wallet - Exchange](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/exchange.png)
+
+In the "Anote Price" element you can check current Anote's price in EUR and the supported cryptocurrencies. 
+
+The exchange is pretty simple.
+
+* In the drop-down menu of **Currency Exchange** applet pick the pair of currencies you want to exchange.   
+* Enter the amount (which does not exceed the amount in your wallet) 
+* Click **Exchange Currencies**. 
+
+While entering the amount, in the **Calculator** on the right you can see the amount of anotes you will receive at the current exchange rate. 
+
+***
+[Anote](https://www.anonutopia.com/anote/) is designed with programmed price increase for every 1000 anotes sold, with a planned stabilization (**Programmed Value**) at around 17 EUR.
+If you are buying more than 1000 anotes, this price increase is calculated in the amount you receive. The Calculator also gives you the prediction of how much will this amount of anotes be worth in EUR at the time of the stabilization.
+***
+
+
+<a name="settings"></a>
+## Wallet settings
 
 
