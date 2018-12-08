@@ -24,7 +24,7 @@ If you get 10 people via your referral link to apply for citizenship and verify 
 
 Basic referring is a simple procedure:
 
- * Copy the referral link from the your [wallet](https://wallet.anonutopia.com/profit/) 
+ * Copy the referral link from your [wallet](https://wallet.anonutopia.com/profit/) 
  * Send it to your friends, family, or wider audience
 
 This link brings your audience to our home page. For advanced referring directly to the application form, you can add ?r=YourWalletAddress to the link, e.g.:
