@@ -29,7 +29,7 @@ Basic referring is a simple procedure:
 
 This link brings your audience to our home page. For advanced referring directly to the application form, you can add ?r=YourWalletAddress to the link, e.g.:
 
-   https://www.anonutopia.com/apply/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2 
+   https://www.anonutopia.com/apply/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2
    (be sure to put the _**correct address**_ of your wallet)
 
 You can see the number of verified applicants/citizens that came through your referral link in your wallet's [settings page](https://wallet.anonutopia.com/settings/).
