@@ -24,18 +24,20 @@ If you get 10 people via your referral link to apply for citizenship and verify 
 
 Basic referring is a simple procedure:
 
-    Copy the referral link from the your [wallet](https://wallet.anonutopia.com/profit/) and send it to your friends, family, or wider audience.
+ * Copy the referral link from the your [wallet](https://wallet.anonutopia.com/profit/) 
+ * Send it to your friends, family, or wider audience
 
 This link brings your audience to our home page. For advanced referring directly to the application form, you can add ?r=YourWalletAddress to the link, e.g.:
 
-    https://www.anonutopia.com/apply/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2 (be sure to put the _**correct address**_ of your wallet)
+   https://www.anonutopia.com/apply/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2 
+   (be sure to put the _**correct address**_ of your wallet)
 
 You can see the number of verified applicants/citizens that came through your referral link in your wallet's [settings page](https://wallet.anonutopia.com/settings/).
 
 ![Anonutopia Wallet - Settings](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/settings.png)        
 
 
-## 4. By participating in Anonutopia's quests and contests. 
+## 4. By participating in Anonutopia's quests and contests 
 
 Periodically, Anonutopia announces various quests and contests through its communication channels. If you decide to join, you can be rewarded with anotes upon successful quest completion or by winning a contest.
 
