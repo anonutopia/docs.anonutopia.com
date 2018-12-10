@@ -8,11 +8,11 @@ We collect funds in Waves, Ether and Bitcoin through [Anote](https://www.anonuto
 
 We will lease all Waves we raise in our crowdfunding campaign to our node address for staking. If you lease your Waves to us too, you will receive your your share in prize.
 
-As a growth hacking \(marketing\) technique, we pledge here that we will exclude all our addresses when sharing the staking prize thus theoretically making our node the most profitable Waves node for everybody else - meaning you. Our goal is to become the biggest node in a short amount of time.
+As a growth hacking \(marketing\) technique, we pledge here that we will exclude all our addresses when sharing the staking prize thus theoretically making our node the most profitable Waves node for everybody else - meaning you. Our goal is to become the biggest node in a short amount of time. We are giving away our prizes to all other stakers because we want to ensure a stable and secure node. 
 
 **Leasing to Anonutopia Node**
 
 Please lease to this address to start staking with Anonutopia:
 
-3PLJQASFXtiohqbirYwSswjjbYGLfaGDEQy
+**3PLJQASFXtiohqbirYwSswjjbYGLfaGDEQy**
 
