@@ -168,7 +168,7 @@ Anote is designed with several features that provide opportunities to earn by ho
 ![Anonutopia Wallet - Profit](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/profit.png)
 
 The **Profit** page has the following elements:
-1. **Anote profit** - Here you can check how much you have earned by holding or reffering in different currencies, with total profit shown in EUR.
+1. **Anote profit** - Here you can check how much you have earned by holding or referring in different currencies, with total profit shown in EUR.
 2. **Referral Program** - The place to find your referral link.
 3. **Payouts** - Here you can transfer your profit to your wallet. 
 <a name="founder"></a>
@@ -184,10 +184,10 @@ To ensure its autonomy, Anonutopia funds its activities solely through a viral c
 
 In the referral program you can earn by sharing your referral link on social media, by e-mail's, messengers etc. If the person who arrived at our sites through your link purchases anotes, you receive 20% of the payment in the currency the payment was made. And not just with the first purchase but all future purchases this person makes. 
 
-Basic reffering is a simple procedure:
+Basic referring is a simple procedure:
  - Copy the **referral link** from the element and paste it where you want it to be seen.  
  
-This link brings your audience to our [home page](https://www.anonutopia.com). For advanced reffering to a specific Anonutopia's page or wallet, you can add **?r=YourWalletAddress**, e.g.:
+This link brings your audience to our [home page](https://www.anonutopia.com). For advanced referring to a specific Anonutopia's page or wallet, you can add **?r=YourWalletAddress**, e.g.:
   * https://wallet.anonutopia.com/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2 (_be sure to put the **correct address of your wallet**_)
 
 
@@ -199,7 +199,7 @@ Anonutopia Wallet also has an integrated exchange (which currently supports conv
 
 ![Anonutopia Wallet - Exchange](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/exchange.png)
 
-In the "Anote Price" element you can check current Anote's price in EUR and the supported cryptocurrencies. 
+In the **Anote Price** element you can check current Anote's price in EUR and the supported cryptocurrencies. 
 
 The exchange is pretty simple.
 
@@ -217,5 +217,7 @@ If you are buying more than 1000 anotes, this price increase is calculated in th
 
 <a name="settings"></a>
 ## Wallet settings
+
+
 
 
