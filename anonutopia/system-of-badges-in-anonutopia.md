@@ -22,7 +22,7 @@ Tags are a very important part of Anonutopia's network and software. Tags determ
 
 * **Hacker = 3.00 AUBIX**
 
-  If you contribute with your IT skills to the development of Anonutopia's open source software, your UBI payouts are tripled. Check us [Github](https://github.com/anonutopia) to see what we do and join the discussion on [Telegram](https://t.me/anonutopia).
+  If you contribute with your IT skills to the development of Anonutopia's open source software, your UBI payouts are tripled. Check our [Github](https://github.com/anonutopia) to see what we do and join the discussion on [Telegram](https://t.me/anonutopia).
 
 * **Worker = 2.00 AUBIX**
 
