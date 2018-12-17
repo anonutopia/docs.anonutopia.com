@@ -214,10 +214,3 @@ While entering the amount, in the **Calculator** on the right you can see the am
 If you are buying more than 1000 anotes, this price increase is calculated in the amount you receive. The Calculator also gives you the prediction of how much will this amount of anotes be worth in EUR at the time of the stabilization.
 ***
 
-
-<a name="settings"></a>
-## Wallet settings
-
-
-
-
