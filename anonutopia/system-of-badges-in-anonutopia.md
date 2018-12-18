@@ -1,4 +1,4 @@
-# System of Badges in Anonutopia
+# System of Tags in Anonutopia
 
 Tags are a very important part of Anonutopia's network and software. Tags determine features, rights and responsibilities for a citizen, as well as the citizen's index for universal basic income \(AUBIX - Anonutopia Universal Basic Income Index\).
 
