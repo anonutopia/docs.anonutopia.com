@@ -20,23 +20,7 @@ If you join our Telegram group (t.me/anonutopia), you can ask our friendly bot f
 
 You can find your wallet address on the main page of your [wallet](https://wallet.anonutopia.com).
 
-
-## 3. By encouraging 10 people to apply for citizenship
-
-If you get 10 people via your referral link to apply for citizenship and verify their e-mails, you will instantly become an Anonutopia's Citizen and receive the amount of anotes needed to become and remain a Citizen.
-
-Basic referring is a simple procedure:
-
- * Copy the referral link from your [wallet](https://wallet.anonutopia.com/profit/) 
- * Send it to your friends, family, or wider audience
-
-This link brings your audience to our home page. For advanced referring directly to the application form, you can add ?r=YourWalletAddress to the link, e.g.:
-
-   https://www.anonutopia.com/apply/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2<br/>(be sure to put the _**correct address**_ of your wallet)
-
-You can see the number of verified applicants/citizens that came through your referral link in your wallet's [settings page](https://wallet.anonutopia.com/settings/).
-
-![Anonutopia Wallet - Settings](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/settings.png)        
+## 3. By sharing on social media        
 
 
 ## 4. By participating in Anonutopia's quests and contests 
