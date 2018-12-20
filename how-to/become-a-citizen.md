@@ -4,6 +4,13 @@ By becoming a citizen of Anonutopia you become eligible for receiving regular pa
 
 ## Citizenship application
 
+Application for citizenship is as simple as it can be. Just go to our [homepage](https://www.anonutopia.com/) and click **Apply for Citizenship**.
+
+Enter your e-mail address in the application form and again click **Apply for Citizenship**. Your Anonutopia wallet will be automatically created
+
+
+
+
 ## Ways to become a Citizen
 
 Anonutopia applies a "proof-of-stake" principle also to its citizenship program. In order to be a citizen you need to have a stake, i.e. hold a small amount of anotes (in the equivalence of **10 EUR**) in your account balance. After you finish the application procedure, you will instantly become a Citizen if you have enough anotes (and also lose the status if you go below this minimal amount).
