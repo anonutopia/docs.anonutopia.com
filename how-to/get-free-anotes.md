@@ -26,16 +26,18 @@ You can get free anotes by just by sharing your referral link on Facebook (not c
 
 In the wallet's **Settings** page, click on Share button in the **Social Network Share Award** form. 
 
-![Anonutopia - Telegram Bot](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/share.png)
+<img src="https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/share.png" width="500">
+<br/>
 
 In the pop-up click **Post on Facebook** button (make sure the post is Public). 
 
-![Anonutopia - Telegram Bot](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/facebook.png)
+<img src="https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/facebook.png" width="500">
+<br/>
 
 You need to paste the post link in the Share Award form. To get the link, go to your Timeline, find the post, right-click on the post timestamp and click "Copy Link Location". 
 
-![Anonutopia - Telegram Bot](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/link.png)
-
+<img src="https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/link.png" width="500">
+<br/>
 Paste the link in the wallet form and click **Claim Free Anotes**. You can get free anotes this way once a day with the reducing amount each day. 
 
 ## 4. By participating in Anonutopia's quests and contests 
