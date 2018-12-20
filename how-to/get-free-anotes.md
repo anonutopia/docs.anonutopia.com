@@ -26,7 +26,6 @@ You can get free anotes by just by sharing your referral link on Facebook (not c
 In the wallet's **Settings** page, click on Share button in the **Social Network Share Award** form. 
 
 <img src="https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/share.png" width="500">
-<br/>
 
 In the pop-up click **Post on Facebook** button (make sure the post is Public). 
 
