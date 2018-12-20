@@ -9,7 +9,7 @@ If you [apply](https://www.anonutopia.com/apply/) for citizenship, you will rece
 
 After you verify your e-mail by clicking on the **Verify e-mail** button, you will receive a free anote in your wallet. 
 
-
+<br/>
 ## 2. By asking our Telegram bot
 
 If you join our Telegram group (t.me/anonutopia), you can ask our friendly bot for a free anote. Just write:
@@ -20,6 +20,7 @@ If you join our Telegram group (t.me/anonutopia), you can ask our friendly bot f
 
 You can find your wallet address on the main page of your [wallet](https://wallet.anonutopia.com).
 
+<br/>
 ## 3. By sharing on social media        
 
 You can get free anotes by just by sharing your referral link on Facebook (not counting the [referral profit](https://github.com/anonutopia/docs.anonutopia.com/blob/master/how-to/use-wallet.md#referral-profit)).
@@ -40,6 +41,7 @@ You need to paste the post link in the Share Award form. To get the link, go to 
 <br/>
 Paste the link in the wallet form and click **Claim Free Anotes**. You can get free anotes this way once a day with the reducing amount each day. 
 
+<br/>
 ## 4. By participating in Anonutopia's quests and contests 
 
 Periodically, Anonutopia announces various quests and contests through its communication channels. If you decide to join, you can be rewarded with anotes upon successful quest completion or by winning a contest.
