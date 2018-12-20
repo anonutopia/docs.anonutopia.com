@@ -36,7 +36,7 @@ In the pop-up click **Post on Facebook** button (make sure the post is Public).
 You need to paste the post link in the Share Award form. To get the link, go to your Timeline, find the post, right-click on the post timestamp and click "Copy Link Location". 
 
 <img src="https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/link.png" width="500">
-<br/>
+
 Paste the link in the wallet form and click **Claim Free Anotes**. You can get free anotes this way once a day with the reducing amount each day. 
 
 ## 4. By participating in Anonutopia's quests and contests 
