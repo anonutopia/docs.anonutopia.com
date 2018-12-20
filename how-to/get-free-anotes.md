@@ -33,7 +33,7 @@ In the pop-up click **Post on Facebook** button (make sure the post is Public).
 <img src="https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/facebook.png" width="500">
 <br/>
 
-You need to paste the post link in the Share Award form. To get the link, go to your Timeline, find the post, right-click on the post timestamp and click "Copy Link Location". 
+You need to paste the post link in the Share Award form. To get the link, go to your Timeline, find the post, right-click on the post timestamp and click "Copy Link Location" (or "link address" or "URL" etc, depending on the browser or device you're using). 
 
 <img src="https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/get-free-anotes/link.png" width="500">
 
