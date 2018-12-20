@@ -6,6 +6,8 @@ By becoming a citizen of Anonutopia you become eligible for receiving regular pa
 
 ## Ways to become a Citizen
 
+You can acquire the Citizen tag by holding some anotes 
+
 Anonutopia applies a "proof-of-stake" principle also to its citizenship program. In order to be a citizen you need to have a stake, i.e. hold a small amount of anotes (in the equivalence of **10 EUR**) in your account balance. After you finish the application procedure, you will instantly become a Citizen if you have enough anotes (and also lose the status if you go below this minimal amount).
 
 You can get anotes in the following ways: 
@@ -16,7 +18,27 @@ You can currently get anotes by [exchanging](https://github.com/anonutopia/docs.
 
 ### 2. By engaging in Anonutopia's activities
 
-If you do not possess cryptocurrencies, you can still become a Citizen by receiving free anotes as rewards for engaging in different [quests and contests](https://github.com/anonutopia/docs.anonutopia.com/blob/master/how-to/get-free-anotes.md), e.g. by encouraging 10 people to apply for citizenship. 
+If you do not possess cryptocurrencies, you can still become a Citizen by receiving free anotes as rewards for engaging in different [quests and contests](https://github.com/anonutopia/docs.anonutopia.com/blob/master/how-to/get-free-anotes.md). 
+
+
+## 3. By encouraging 10 people to apply for citizenship
+
+If you get 10 people via your referral link to apply for citizenship and verify their e-mails, you will instantly become an Anonutopia's Citizen.
+
+Basic referring is a simple procedure:
+
+ * Copy the referral link from your [wallet](https://wallet.anonutopia.com/profit/) 
+ * Send it to your friends, family, or wider audience
+
+This link brings your audience to our home page. For advanced referring directly to the application form, you can add ?r=YourWalletAddress to the link, e.g.:
+
+   https://www.anonutopia.com/apply/?r=3PDb1ULFjazuzPeWkF2vqd1nomKh4ctq9y2<br/>(be sure to put the _**correct address**_ of your wallet)
+
+You can see the number of verified applicants/citizens that came through your referral link in your wallet's [settings page](https://wallet.anonutopia.com/settings/).
+
+![Anonutopia Wallet - Settings](https://github.com/anonutopia/docs.anonutopia.com/blob/master/files/use-wallet/settings.png) 
+
+
 
 ## Beyond Citizen
 
